@@ -1,0 +1,5 @@
+# It's a CODEOWNERS file of git dev branch
+# Giving @online-marathon boss to control all changes with .yml & .yaml files
+
+*.yml  @online-marathon
+*.yaml  @online-marathon
