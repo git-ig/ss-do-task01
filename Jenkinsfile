@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         // Указываем, что нам нужен Node.js, настроенный в Jenkins под именем 'NodeJS-22'
-        nodejs 'NodeJS-22'
+        nodejs 'nodejs23'
     }
 
     stages {
